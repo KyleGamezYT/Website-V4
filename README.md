@@ -1,6 +1,6 @@
 <img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" src="https://media.discordapp.net/attachments/710425657003212810/933327129305821184/circle.png">
 
-## Igor Kowalczyk - Next.js Portfolio
+## Kyle Bain - Next.js Portfolio
 
 > My personal portfolio written on Next.js
 
