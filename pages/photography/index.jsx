@@ -14,7 +14,7 @@ export default function Photography({ photos }) {
     <h1 className="mb-4 flex items-center justify-center box-decoration-clone bg-clip-text text-center font-inter text-[2rem] font-semibold motion-reduce:transition-none">
      My photography<span className="bg-gradient-to-r from-[#6310ff] to-[#1491ff] box-decoration-clone bg-clip-text text-fill-transparent dark:from-[#a2facf] dark:to-[#64acff]">.</span>
     </h1>
-    <p className="pb-2 font-inter text-slate-600 dark:text-slate-400">I call this page my second Instagram, here I upload photos taken by me in various places around the world. From Poland - my home country to Italy.</p>
+    <p className="pb-2 font-inter text-slate-600 dark:text-slate-400">I call this page my second Instagram, here I upload photos taken by me in various places around the world. From The USA - my home country to Dominica.</p>
     <p className="pb-6 font-inter text-slate-600 dark:text-slate-400">I love traveling, I love taking pictures, from every trip I bring back hundreds of different photos. Here you can browse through the best ones</p>
     <div className="relative mb-4 w-full">
      <input aria-label="Search photos" type="text" onChange={(e) => setSearchValue(e.target.value)} placeholder="Search photos" className={`${!filteredPhotos.length ? "ring-rose-500 focus:text-rose-500 focus:dark:text-red-400" : ""} block w-full rounded-md bg-zinc-200/[25%] px-4 py-2 font-inter text-slate-900 outline-none duration-200 hover:bg-zinc-200/60 focus:bg-zinc-200/60 focus:shadow-md focus:ring dark:bg-slate-800 dark:text-slate-100`} />
