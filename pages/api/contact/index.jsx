@@ -37,7 +37,7 @@ export default async function handler(req, res) {
  }
 
  const embed = {
-  title: "📩 New message from igorkowalczyk.dev",
+  title: "📩 New message from kyletheduck.tk",
   description: `> ${message.toString()}`,
   color: 5759645,
   fields: [
@@ -55,7 +55,7 @@ export default async function handler(req, res) {
  };
 
  const params = {
-  username: "igorkowalczykdev",
+  username: "kyles-buddy",
   avatar_url: "https://igorkowalczyk.dev/favicon.ico",
   embeds: [embed],
  };

@@ -1,10 +1,10 @@
 import Link from "next/link";
 
 export const meta = {
- title: "Igor Kowalczyk",
- author: "Igor Kowalczyk",
+ title: "Kyle Bain",
+ author: "Kyle Bain",
  description: "I'm a full-stack developer based in Poland. I have a passion for building web applications and solving problems",
- url: "https://igorkowalczyk.dev",
+ url: "kyletheduck.tk",
  theme_color: "#5485f2",
  type: "website",
 };
@@ -15,7 +15,7 @@ export const feautures = {
 };
 
 export const header = {
- title: "Igor Kowalczyk",
+ title: "Kyle Bain",
  subtitle: "Full-stack developer",
  description: "I'm a full-stack developer based in Poland. I have a passion for building web applications and solving problems.",
  code: {
