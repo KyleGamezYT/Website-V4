@@ -71,7 +71,7 @@ const nextConfig = {
   return [
    {
     source: "/blooket-cheats",
-    destination: "https://github.com/Minesraft2/Blooket-Cheats",
+    destination: "https://minesraft2.github.io/Blooket-Cheats/",
     permanent: true,
    },
    {
