@@ -4,7 +4,7 @@ export const meta = {
  title: "Kyle Bain",
  author: "Kyle Bain",
  description: "I'm a full-stack developer based in Poland. I have a passion for building web applications and solving problems",
- url: "kyletheduck.tk",
+ url: "mxtor.xyz",
  theme_color: "#5485f2",
  type: "website",
 };
@@ -17,10 +17,10 @@ export const feautures = {
 export const header = {
  title: "Kyle Bain",
  subtitle: "Full-stack developer",
- description: "I'm a full-stack developer based in Poland. I have a passion for building web applications and solving problems.",
+ description: "I'm a full-stack developer based in the US. I have a passion for building Discord applications and solving problems.",
  code: {
   default: {
-   user: "igorkowalczyk",
+   user: "guest-user",
   },
   lines: [
    {

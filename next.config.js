@@ -70,8 +70,8 @@ const nextConfig = {
  async redirects() {
   return [
    {
-    source: "/blooket-cheats",
-    destination: "https://minesraft2.github.io/Blooket-Cheats/",
+    source: "/redirects/finance/gl",
+    destination: "https://gl.me/u/729c7GkjJmFr",
     permanent: true,
    },
    {
